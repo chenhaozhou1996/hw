@@ -1,0 +1,132 @@
+ Gender, Age, Height(cm), Weight(kg), Income, Education
+ male,32,175,70,75000, Master's Degree
+ male,25,182,85,45000, Bachelor's Degree
+ female,41,160,62,120000, Doctorate Degree
+ male,38,178,79,90000, Bachelor's Degree
+ female,29,165,58,35000, Associate's Degree
+ male,45,190,92,110000, Master's Degree
+ female,27,163,55,50000, Bachelor's Degree
+ male,52,179,83,500000, Doctorate Degree
+ female,31,168,61,80000, Bachelor's Degree
+ male,36,177,76,95000, Master's Degree
+ female,24,162,53,40000, Bachelor's Degree
+ male,44,183,87,120000, Bachelor's Degree
+ female,28,166,60,55000, Associate's Degree
+ male,29,181,84,60000, Bachelor's Degree
+ female,33,170,65,65000, Master's Degree
+ male,37,176,78,85000, Bachelor's Degree
+ female,26,169,59,30000, Bachelor's Degree
+ male,28,182,75,80000, Bachelor's Degree
+ male,33,178,82,45000, Master's Degree
+ female,44,160,58,150000, Doctorate Degree
+ male,29,176,74,55000, Bachelor's Degree
+ female,31,165,63,50000, Bachelor's Degree
+ male,40,187,90,120000, Master's Degree
+ female,27,163,56,60000, Bachelor's Degree
+ male,47,181,85,500000, Doctorate Degree
+ female,35,170,65,70000, Associate's Degree
+ male,42,175,80,100000, Bachelor's Degree
+ female,26,160,53,40000, Bachelor's Degree
+ male,49,183,92,150000, Bachelor's Degree
+ female,30,168,61,60000, Associate's Degree
+ male,35,181,84,70000, Bachelor's Degree
+ female,38,172,68,75000, Master's Degree
+ male,31,175,78,90000, Bachelor's Degree
+ female,29,166,59,35000, Bachelor's Degree
+ male,32,175,78,90000, Master's Degree
+ female,27,168,61,55000, Bachelor's Degree
+ male,41,180,85,110000, Bachelor's Degree
+ female,36,163,57,65000, Associate's Degree
+ male,29,183,81,50000, Bachelor's Degree
+ female,33,170,65,130000, Doctorate Degree
+ male,45,187,92,500000, Doctorate Degree
+ female,28,160,50,40000, Bachelor's Degree
+ male,39,179,83,95000, Bachelor's Degree
+ female,32,165,58,60000, Bachelor's Degree
+ male,44,183,90,180000, Master's Degree
+ female,26,162,54,35000, Bachelor's Degree
+ male,36,176,76,75000, Bachelor's Degree
+ female,29,167,63,55000, Master's Degree
+ male,42,181,87,120000, Bachelor's Degree
+ female,30,169,62,60000, Associate's Degree
+ male,34,177,79,60000, Bachelor's Degree
+male,35,178,80,90000,Master's Degree
+female,28,165,60,55000,Bachelor's Degree
+male,42,185,90,120000,Doctorate Degree
+female,31,163,55,65000,Associate's Degree
+male,30,182,83,95000,Bachelor's Degree
+female,36,170,65,75000,Bachelor's Degree
+male,44,188,92,150000,Master's Degree
+female,29,167,60,60000,Bachelor's Degree
+male,37,179,81,85000,Bachelor's Degree
+female,26,162,55,40000,Bachelor's Degree
+male,43,183,85,110000,Bachelor's Degree
+female,34,168,63,65000,Associate's Degree
+male,36,174,75,95000,Bachelor's Degree
+female,27,166,56,55000,Bachelor's Degree
+male,41,180,86,250000,Doctorate Degree
+female,30,170,62,60000,Bachelor's Degree
+male,38,175,77,80000,Bachelor's Degree
+female,29,164,56,120000,Doctorate Degree
+male,40,182,88,100000,Master's Degree
+female,33,169,63,70000,Bachelor's Degree
+male,39,181,82,90000,Bachelor's Degree
+female,32,168,60,45000,Bachelor's Degree
+male,45,186,94,150000,Master's Degree
+female,28,163,53,55000,Associate's Degree
+male,34,177,80,50000,Bachelor's Degree
+female,31,166,58,65000,Bachelor's Degree
+male,42,184,87,130000,Bachelor's Degree
+female,30,170,64,55000,Associate's Degree
+male,37,179,79,95000,Bachelor's Degree
+male,37,175,76,80000,Bachelor's Degree
+female,27,160,54,45000,Bachelor's Degree
+male,44,182,88,120000,Doctorate Degree
+female,32,168,63,60000,Associate's Degree
+male,39,178,81,100000,Bachelor's Degree
+female,29,165,57,65000,Bachelor's Degree
+male,43,183,85,150000,Master's Degree
+female,31,170,63,55000,Associate's Degree
+male,38,176,79,90000,Bachelor's Degree
+female,28,162,55,50000,Bachelor's Degree
+male,41,181,86,110000,Bachelor's Degree
+female,33,170,64,70000,Bachelor's Degree
+male,36,179,78,85000,Bachelor's Degree
+female,30,163,58,55000,Bachelor's Degree
+male,42,184,90,250000,Doctorate Degree
+female,34,168,62,75000,Bachelor's Degree
+male,35,177,80,70000,Bachelor's Degree
+female,29,166,58,120000,Doctorate Degree
+male,40,183,88,100000,Master's Degree
+female,31,167,60,45000,Bachelor's Degree
+male,43,185,84,130000,Master's Degree
+female,32,168,63,60000,Associate's Degree
+male,37,179,80,90000,Bachelor's Degree
+female,28,163,56,55000,Associate's Degree
+male,34,176,78,80000,Bachelor's Degree
+male,32,178,78,75000,Bachelor's Degree
+female,27,162,56,50000,Bachelor's Degree
+male,44,182,88,120000,Doctorate Degree
+female,35,168,64,65000,Associate's Degree
+male,38,179,80,90000,Bachelor's Degree
+female,30,164,58,55000,Bachelor's Degree
+male,42,183,87,150000,Master's Degree
+female,29,160,55,45000,Associate's Degree
+male,36,175,76,80000,Bachelor's Degree
+female,31,166,60,55000,Bachelor's Degree
+male,41,184,85,110000,Bachelor's Degree
+female,33,169,62,70000,Bachelor's Degree
+male,35,178,79,85000,Bachelor's Degree
+female,28,162,55,50000,Bachelor's Degree
+male,40,183,86,250000,Doctorate Degree
+female,34,167,61,75000,Bachelor's Degree
+male,37,180,82,70000,Bachelor's Degree
+female,29,165,57,120000,Doctorate Degree
+male,40,182,88,100000,Master's Degree
+female,31,168,61,45000,Bachelor's Degree
+male,43,184,85,130000,Master's Degree
+female,32,170,64,60000,Associate's Degree
+male,38,176,79,90000,Bachelor's Degree
+female,27,162,55,55000,Associate's Degree
+male,33,175,77,80000,Bachelor's Degree
+female,29,164,57,65000,Bachelor's Degree
